@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05080F"/>
+      <stop offset="0.55" stop-color="#0A1024"/>
+      <stop offset="1" stop-color="#070B18"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#2E7DFF"/>
+      <stop offset="1" stop-color="#7C4DFF"/>
+    </linearGradient>
+    <linearGradient id="wire" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2E7DFF" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="glowV" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7C4DFF" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#7C4DFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#5B7FD4" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+  <ellipse cx="1120" cy="110" rx="330" ry="240" fill="url(#glowC)"/>
+  <ellipse cx="300" cy="330" rx="380" ry="260" fill="url(#glowV)"/>
+
+  <g font-family="Inter Display, Inter, DejaVu Sans, sans-serif">
+    <text x="80" y="150" font-size="60" font-weight="600" fill="#F2F5FF" letter-spacing="-1.4">Ajay Krishna Reddy</text>
+    <rect x="80" y="170" width="212" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="80" y="215" font-size="24" font-weight="500" fill="#A9BCE2">Software Developer</text>
+    <text x="297" y="215" font-size="24" font-weight="500" fill="#22D3EE">→</text>
+    <text x="327" y="215" font-size="24" font-weight="500" fill="#A9BCE2">Cloud &amp; Network Engineering</text>
+  </g>
+  <text x="80" y="256" font-family="DejaVu Sans Mono, monospace" font-size="13.5" fill="#64789E" letter-spacing="0.4">Melbourne, Australia  ·  Master of Information Technology  ·  CQUniversity</text>
+
+  <g transform="translate(0,16)">
+    <path d="M832 134 L930 190" stroke="url(#wire)" stroke-width="1.4"/>
+    <path d="M832 190 L930 190" stroke="url(#wire)" stroke-width="1.4"/>
+    <path d="M832 246 L930 190" stroke="url(#wire)" stroke-width="1.4"/>
+    <path d="M962 190 L1024 190" stroke="url(#wire)" stroke-width="1.6"/>
+    <path d="M1072 190 L1132 190" stroke="url(#wire)" stroke-width="1.8"/>
+
+    <circle cx="826" cy="134" r="6" fill="#0E1630" stroke="#3E6FD0" stroke-width="1.6"/>
+    <circle cx="826" cy="190" r="6" fill="#0E1630" stroke="#3E6FD0" stroke-width="1.6"/>
+    <circle cx="826" cy="246" r="6" fill="#0E1630" stroke="#3E6FD0" stroke-width="1.6"/>
+
+    <rect x="930" y="174" width="34" height="32" rx="7" fill="#101A34" stroke="#2E7DFF" stroke-width="1.6"/>
+    <path d="M938 184h18M938 190h18M938 196h18" stroke="#2E7DFF" stroke-width="1.3" stroke-opacity="0.75"/>
+
+    <circle cx="1048" cy="190" r="24" fill="#101A34" stroke="#4C8BFF" stroke-width="1.6"/>
+    <path d="M1038 190h20M1050 184l8 6-8 6M1058 178v-8M1038 202v8" stroke="#6BA4FF" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+    <circle cx="1166" cy="190" r="54" fill="none" stroke="#22D3EE" stroke-opacity="0.13" stroke-width="1"/>
+    <circle cx="1166" cy="190" r="40" fill="none" stroke="#22D3EE" stroke-opacity="0.22" stroke-width="1"/>
+    <path d="M1140 198a15 15 0 0 1 3-29 20 20 0 0 1 38 5 13 13 0 0 1-3 24z" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-width="1.8" filter="url(#soft)"/>
+    <path d="M1140 198a15 15 0 0 1 3-29 20 20 0 0 1 38 5 13 13 0 0 1-3 24z" fill="#0B1526" stroke="#38DCF2" stroke-width="1.8" stroke-linejoin="round"/>
+  </g>
+
+  <rect x="0" y="356" width="1280" height="4" fill="url(#accent)"/>
+</svg>
