@@ -18,7 +18,7 @@ I'm a software developer based in **Melbourne, Australia**, currently studying a
 
 I started in front-end development — building React applications professionally in India, then delivering freelance websites for real businesses here in Australia. I'm now deliberately moving toward **cloud infrastructure, networking and DevOps**, because I'd rather build and run the systems underneath the product than only the surface.
 
-What's on this profile is real work: client websites that shipped, a location-tracking application, e-commerce builds, and university networking projects.
+What's on this profile is real work: client websites that shipped, a trades marketplace, e-commerce builds, and university networking projects.
 
 ```
 Background      Electronics & Communication Engineering  →  React development
@@ -36,17 +36,16 @@ Direction       Cloud infrastructure  ·  Networking  ·  DevOps
 ![React](https://img.shields.io/badge/React-0A1024?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-0A1024?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0A1024?style=flat-square&logo=css3&logoColor=1572B6)
-![Redux](https://img.shields.io/badge/Redux-0A1024?style=flat-square&logo=redux&logoColor=764ABC)
+![React Router](https://img.shields.io/badge/React_Router-0A1024?style=flat-square&logo=reactrouter&logoColor=CA4245)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0A1024?style=flat-square&logo=bootstrap&logoColor=7952B3)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0A1024?style=flat-square&logo=framer&logoColor=22D3EE)
 
-**Backend, data & services**
+**Services & data**
 
-![Node.js](https://img.shields.io/badge/Node.js-0A1024?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0A1024?style=flat-square&logo=express&logoColor=FFFFFF)
-![Firebase](https://img.shields.io/badge/Firebase-0A1024?style=flat-square&logo=firebase&logoColor=FFCA28)
-![MySQL](https://img.shields.io/badge/MySQL-0A1024?style=flat-square&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase_RTDB-0A1024?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Axios](https://img.shields.io/badge/REST_APIs-0A1024?style=flat-square&logo=axios&logoColor=5A29E4)
 ![EmailJS](https://img.shields.io/badge/EmailJS-0A1024?style=flat-square&logo=minutemailer&logoColor=22D3EE)
+![JSON](https://img.shields.io/badge/JSON_data_modelling-0A1024?style=flat-square&logo=json&logoColor=A9BCE2)
 
 **Infrastructure & tooling**
 
@@ -54,6 +53,7 @@ Direction       Cloud infrastructure  ·  Networking  ·  DevOps
 ![Git](https://img.shields.io/badge/Git-0A1024?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0A1024?style=flat-square&logo=github&logoColor=FFFFFF)
 ![Netlify](https://img.shields.io/badge/Netlify-0A1024?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Node.js](https://img.shields.io/badge/Node.js_&_npm-0A1024?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![GNS3](https://img.shields.io/badge/GNS3-0A1024?style=flat-square&logo=cisco&logoColor=22D3EE)
 ![Linux](https://img.shields.io/badge/Linux-0A1024?style=flat-square&logo=linux&logoColor=FCC624)
 
@@ -78,11 +78,11 @@ Corporate website for a Melbourne IT services company. Built and deployed end to
 <td width="50%" valign="top">
 
 ### Where Is My Foreman
-**Real-time location tracking**
+**Skilled-trades marketplace**
 
-Web application letting site managers track field workers on a live map. Firebase realtime database, Google Maps integration and user authentication.
+Marketplace for finding trade professionals across eight categories — browse by trade, open a worker's profile, save the ones worth contacting. Accounts backed by Firebase.
 
-`React` `Firebase` `Google Maps API` `Express`
+`React` `React Router` `Firebase RTDB` `Axios`
 
 [Repository →](https://github.com/AJAY2043/foreman-project)
 
@@ -96,7 +96,7 @@ Web application letting site managers track field workers on a live map. Firebas
 
 Multi-page marketing site for a run-flat tyre manufacturer covering military, ambulance and cash-in-transit vehicle applications.
 
-`React` `Formik` `Framer Motion` `Bootstrap`
+`React` `React Router` `React Icons` `CSS3`
 
 [Repository →](https://github.com/AJAY2043/run-flat-systems)
 
@@ -106,9 +106,9 @@ Multi-page marketing site for a run-flat tyre manufacturer covering military, am
 ### Scamsters
 **Community safety prototype**
 
-Prototype platform for reporting and surfacing local scam activity, with report submission and moderated listing pages.
+Prototype platform for reporting and surfacing scam activity — report submission, local listings, help lines and support pages.
 
-`React` `Firebase` `Formik` `Bootstrap`
+`React` `React Router` `Bootstrap` `Font Awesome`
 
 [Repository →](https://github.com/AJAY2043/scamsters-prototype)
 
