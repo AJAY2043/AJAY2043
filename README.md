@@ -53,7 +53,7 @@ Direction       Cloud infrastructure  ·  Networking  ·  DevOps
 ![Git](https://img.shields.io/badge/Git-0A1024?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0A1024?style=flat-square&logo=github&logoColor=FFFFFF)
 ![Netlify](https://img.shields.io/badge/Netlify-0A1024?style=flat-square&logo=netlify&logoColor=00C7B7)
-![Node.js](https://img.shields.io/badge/Node.js_&_npm-0A1024?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Node.js](https://img.shields.io/badge/Node.js_and_npm-0A1024?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![GNS3](https://img.shields.io/badge/GNS3-0A1024?style=flat-square&logo=cisco&logoColor=22D3EE)
 ![Linux](https://img.shields.io/badge/Linux-0A1024?style=flat-square&logo=linux&logoColor=FCC624)
 
