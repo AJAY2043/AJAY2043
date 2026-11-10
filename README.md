@@ -14,7 +14,20 @@
 
 ## About me
 
+<table>
+<tr>
+<td width="180" valign="top">
+  <img src="./assets/profile-photo.png" alt="Ajay Krishna Reddy" width="170" />
+</td>
+<td valign="top">
+
 I'm a software developer based in **Melbourne, Australia**, currently studying a **Master of Information Technology at CQUniversity**, majoring in Networks and Information Security with a minor in Artificial Intelligence.
+
+Open to Cloud, Network and IT Support roles in Melbourne — and to anything that lets me work on the infrastructure underneath the product.
+
+</td>
+</tr>
+</table>
 
 I started in front-end development — building React applications professionally in India, then delivering freelance websites for real businesses here in Australia. I'm now deliberately moving toward **cloud infrastructure, networking and DevOps**, because I'd rather build and run the systems underneath the product than only the surface.
 
