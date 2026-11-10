@@ -31,11 +31,13 @@ Open to Cloud, Network and IT Support roles in Melbourne — and to anything tha
 
 I started in front-end development — building React applications professionally in India, then delivering freelance websites for real businesses here in Australia. I'm now deliberately moving toward **cloud infrastructure, networking and DevOps**, because I'd rather build and run the systems underneath the product than only the surface.
 
-What's on this profile is real work: client websites that shipped, a trades marketplace, e-commerce builds, and university networking projects.
+What's on this profile is real work: client websites that shipped, a trades marketplace, e-commerce builds, and university networking projects. Every README here was written against the source — if a repository says it uses something, the code imports it.
+
+The other half of the job is talking to people. I've scoped projects with clients who weren't technical, run a retail site solo overnight, and been elected to represent Victorian students at my university. Engineering teams tend to be short of that.
 
 ```
 Background      Electronics & Communication Engineering  →  React development
-Now             Master of IT — Networks & Information Security  ·  CQUniversity Melbourne
+Now             Master of IT — Networks & Information Security, AI minor  ·  CQUniversity Melbourne
 Direction       Cloud infrastructure  ·  Networking  ·  DevOps
 ```
 
@@ -43,32 +45,34 @@ Direction       Cloud infrastructure  ·  Networking  ·  DevOps
 
 ## What I work with
 
-**Languages & Front-end**
+**Cloud, networking & infrastructure** — where I'm heading
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0A1024?style=flat-square&logo=microsoftazure&logoColor=2E7DFF)
+![GNS3](https://img.shields.io/badge/GNS3-0A1024?style=flat-square&logo=cisco&logoColor=22D3EE)
+![Linux](https://img.shields.io/badge/Linux-0A1024?style=flat-square&logo=linux&logoColor=FCC624)
+![Networking](https://img.shields.io/badge/Routing_and_Switching-0A1024?style=flat-square&logo=cisco&logoColor=2E7DFF)
+![Git](https://img.shields.io/badge/Git-0A1024?style=flat-square&logo=git&logoColor=F05032)
+![Netlify](https://img.shields.io/badge/Netlify-0A1024?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Node.js](https://img.shields.io/badge/Node.js_and_npm-0A1024?style=flat-square&logo=nodedotjs&logoColor=339933)
+
+**Python & machine learning** — my AI minor
+
+![Python](https://img.shields.io/badge/Python-0A1024?style=flat-square&logo=python&logoColor=3776AB)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0A1024?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![pandas](https://img.shields.io/badge/pandas-0A1024?style=flat-square&logo=pandas&logoColor=A9BCE2)
+![NumPy](https://img.shields.io/badge/NumPy-0A1024?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Keras](https://img.shields.io/badge/Keras-0A1024?style=flat-square&logo=keras&logoColor=D00000)
+![Jupyter](https://img.shields.io/badge/Jupyter-0A1024?style=flat-square&logo=jupyter&logoColor=F37626)
+
+**Development** — what I build with
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A1024?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-0A1024?style=flat-square&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-0A1024?style=flat-square&logo=reactrouter&logoColor=CA4245)
 ![HTML5](https://img.shields.io/badge/HTML5-0A1024?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0A1024?style=flat-square&logo=css3&logoColor=1572B6)
-![React Router](https://img.shields.io/badge/React_Router-0A1024?style=flat-square&logo=reactrouter&logoColor=CA4245)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0A1024?style=flat-square&logo=bootstrap&logoColor=7952B3)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0A1024?style=flat-square&logo=framer&logoColor=22D3EE)
-
-**Services & data**
-
-![Firebase](https://img.shields.io/badge/Firebase_RTDB-0A1024?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Axios](https://img.shields.io/badge/REST_APIs-0A1024?style=flat-square&logo=axios&logoColor=5A29E4)
-![EmailJS](https://img.shields.io/badge/EmailJS-0A1024?style=flat-square&logo=minutemailer&logoColor=22D3EE)
-![JSON](https://img.shields.io/badge/JSON_data_modelling-0A1024?style=flat-square&logo=json&logoColor=A9BCE2)
-
-**Infrastructure & tooling**
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0A1024?style=flat-square&logo=microsoftazure&logoColor=2E7DFF)
-![Git](https://img.shields.io/badge/Git-0A1024?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0A1024?style=flat-square&logo=github&logoColor=FFFFFF)
-![Netlify](https://img.shields.io/badge/Netlify-0A1024?style=flat-square&logo=netlify&logoColor=00C7B7)
-![Node.js](https://img.shields.io/badge/Node.js_and_npm-0A1024?style=flat-square&logo=nodedotjs&logoColor=339933)
-![GNS3](https://img.shields.io/badge/GNS3-0A1024?style=flat-square&logo=cisco&logoColor=22D3EE)
-![Linux](https://img.shields.io/badge/Linux-0A1024?style=flat-square&logo=linux&logoColor=FCC624)
+![Firebase](https://img.shields.io/badge/Firebase-0A1024?style=flat-square&logo=firebase&logoColor=FFCA28)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0A1024?style=flat-square&logo=axios&logoColor=5A29E4)
 
 ---
 
